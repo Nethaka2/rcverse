@@ -91,7 +91,7 @@ player.position.y = 0.5;
 scene.add(player);
 
 
-
+//hehehehehe github wadaaa
 const playerSpeed = 0.5;
 const playerNSpeed = -0.5;
 const keys = {};
